@@ -3,7 +3,8 @@ package javaapplication1;
 import javax.swing.*;
 import java.util.Scanner;
 public class JavaApplication1 {
-
+    
+    
     public static void main(String[] args) {
         
         int a[]={10,20,67,89,90};
